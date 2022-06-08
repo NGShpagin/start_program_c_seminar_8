@@ -1,0 +1,30 @@
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.csproj.AssemblyReference.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfoInputs.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfo.cs
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/bin/Debug/net6.0/Task_4
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/bin/Debug/net6.0/Task_4.deps.json
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/bin/Debug/net6.0/Task_4.runtimeconfig.json
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/bin/Debug/net6.0/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/bin/Debug/net6.0/Task_4.pdb
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/refint/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.pdb
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/Task_4.genruntimeconfig.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar 8/Task_4/obj/Debug/net6.0/ref/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/bin/Debug/net6.0/Task_4
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/bin/Debug/net6.0/Task_4.deps.json
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/bin/Debug/net6.0/Task_4.runtimeconfig.json
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/bin/Debug/net6.0/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/bin/Debug/net6.0/Task_4.pdb
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.csproj.AssemblyReference.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfoInputs.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.AssemblyInfo.cs
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.csproj.CoreCompileInputs.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/refint/Task_4.dll
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.pdb
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/Task_4.genruntimeconfig.cache
+/Users/nikolaishpagin/Desktop/GeekBrains/Введение в языки программирования/Seminar_8/Task_4/obj/Debug/net6.0/ref/Task_4.dll
